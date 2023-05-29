@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "app-e-db-realtime-d4c9a",
+    "app": "app-e-db-realtime-d4c9a"
+  },
+  "targets": {
+    "app-e-db-realtime": {
+      "hosting": {
+        "app": [
+          "app-e-db-realtime"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
